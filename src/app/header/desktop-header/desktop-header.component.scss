@@ -1,0 +1,21 @@
+.desktop-header {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .logo {
+    width: 150px;
+    padding-top: 35px;
+  }
+
+  .n-link {
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .menu-icon {
+    cursor: pointer;
+   font-size: 25px;
+  }
+}
